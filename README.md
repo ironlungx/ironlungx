@@ -6,5 +6,8 @@
     - ⌨️ Split keyboards (crkbd)
     - 🧩 QMK
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=ironlungx&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ironlungx&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=ironlungx&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ironlungx&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ironlungx&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)h
