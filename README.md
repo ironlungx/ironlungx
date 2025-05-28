@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ironlungx
 - 👀 I’m interested in c/cpp, linux
-- 🎗️ Stuff I'm learning and actually enjoy
+- 🎗️ Stuff I'm learning and enjoy
     - 📓 Neovim
     - 🚀 NixOS
     - ⌨️ Split keyboards (crkbd)
