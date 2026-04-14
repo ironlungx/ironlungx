@@ -23,4 +23,6 @@
     - ⌨️ Split keyboards (crkbd)
     - 🧩 QMK
 
-[![github stats](![Stats](./profile/stats.svg))](https://github.com/ironlungx)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
